@@ -1,0 +1,138 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2132397989",
+  "source": {
+   "name": "Local Area Network",
+   "showName": true,
+   "instructions": "Select correct answers from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "A <<<local area network>>> allows users at a single site to share data and resources whilst a <<<wide area network>>> connects computers across the world.",
+   "tokens": {
+    "blank": [
+     "local area network",
+     "wide area network"
+    ],
+    "text": [
+     "A ",
+     0,
+     " allows users at a single site to share data and resources whilst a ",
+     0,
+     " connects computers across the world."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1109439182",
+  "source": {
+   "name": "Peer to Peer Network",
+   "showName": true,
+   "instructions": "Select correct answers from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "A <<<peer-to-peer>>> network is more suitable for a small number of computers as there is no <<<server>>> to store <<<files>>> or ensure the <<<security>>> of the network.",
+   "tokens": {
+    "blank": [
+     "peer-to-peer",
+     "server",
+     "files",
+     "security"
+    ],
+    "text": [
+     "A ",
+     0,
+     " network is more suitable for a small number of computers as there is no ",
+     0,
+     " to store ",
+     0,
+     " or ensure the ",
+     0,
+     " of the network."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1436836105",
+  "source": {
+   "name": "Connecting",
+   "showName": true,
+   "instructions": "Select correct answers from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "In order to connect to a network, a device needs a <<<network interface controller>>> which allows it to transmit and receive messages. The data is transmitted between the computers using cables such as copper wires or <<<fibre optic cables>>> or wirelessly using <<<radio>>> waves. A wireless device can connect to a cable network using a <<<wireless access point>>>. A <<<switch>>> ensures that messages are delivered to the correct devices on a single network   whilst a <<<router>>> directs them between networks.",
+   "tokens": {
+    "blank": [
+     "network interface controller",
+     "fibre optic cables",
+     "radio",
+     "wireless access point",
+     "switch",
+     "router"
+    ],
+    "text": [
+     "In order to connect to a network, a device needs a ",
+     0,
+     " which allows it to transmit and receive messages. The data is transmitted between the computers using cables such as copper wires or ",
+     0,
+     " or wirelessly using ",
+     0,
+     " waves. A wireless device can connect to a cable network using a ",
+     0,
+     ". A ",
+     0,
+     " ensures that messages are delivered to the correct devices on a single network   whilst a ",
+     0,
+     " directs them between networks."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3588575512",
+  "source": {
+   "name": "Addressing",
+   "showName": true,
+   "instructions": "Select correct answers from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "The internet is an example of a <<<wide area network>>>.  A <<<host>>> is a computer that provides services and resources to <<<clients>>>. Messages are routed to the correct computers as each one is given an <<<IP address>>>. As these addresses are binary numbers they are represented by text strings called <<<domain names>>> which are easier for humans to remember. When a user enters one of these into a browser it is <<<resolved>>> back into its IP address by a <<<domain name server>>>.\nUsers can use the internet to store data or use software on remote servers and this is referred to as <<<cloud computing>>>.",
+   "tokens": {
+    "blank": [
+     "wide area network",
+     "host",
+     "clients",
+     "IP address",
+     "domain names",
+     "resolved",
+     "domain name server",
+     "cloud computing"
+    ],
+    "text": [
+     "The internet is an example of a ",
+     0,
+     ".  A ",
+     0,
+     " is a computer that provides services and resources to ",
+     0,
+     ". Messages are routed to the correct computers as each one is given an ",
+     0,
+     ". As these addresses are binary numbers they are represented by text strings called ",
+     0,
+     " which are easier for humans to remember. When a user enters one of these into a browser it is ",
+     0,
+     " back into its IP address by a ",
+     0,
+     ".\nUsers can use the internet to store data or use software on remote servers and this is referred to as ",
+     0,
+     "."
+    ]
+   }
+  }
+ }
+]
